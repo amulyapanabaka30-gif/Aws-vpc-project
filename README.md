@@ -25,8 +25,21 @@ Application Load Balancer (ALB)
 Python-based web server on EC2 instances 
 
 Final Result 
-
 Successfully deployed scalable architecture 
 Load Balancer distributes traffic across instances 
 Bastion Host ensures secure access to private instances 
 Auto Scaling ensures availability 
+
+>> Target groups activity
+
+![image alt](https://github.com/amulyapanabaka30-gif/Aws-vpc-project/blob/main/Target_group.png?raw=true)
+
+
+>> Output of Private subnet ec2 server 1
+
+![image alt]()
+
+>> Output of Private subnet ec2 server 2
+
+![image alt]()
+
