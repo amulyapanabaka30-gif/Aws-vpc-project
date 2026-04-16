@@ -9,6 +9,8 @@ The architecture is set up inside an Amazon VPC across two availability zones fo
 
 Reference: https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html 
 
+Download : Aws_VPC_prod_project file to view the detailed steps and reference pictures of the project created 
+
 Workflow used:
 
 ![image alt](https://github.com/amulyapanabaka30-gif/Aws-vpc-project/blob/main/vpc-example-private-subnets-2.png?raw=true)
