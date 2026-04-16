@@ -41,5 +41,5 @@ Auto Scaling ensures availability
 
 >> Output of Private subnet ec2 server 2
 
-![image alt]()
+![image alt](https://github.com/amulyapanabaka30-gif/Aws-vpc-project/blob/main/Private_ec2_server_2.png.png?raw=true)
 
